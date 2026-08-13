@@ -8,7 +8,7 @@
 > [!NOTE]
 > PixVerse is based on Fluxer. An open-source 
 >
-> [Read the launch blog post]() | [View full roadmap](https://www.fluxer.app)
+> []() | [View Fluxer](https://www.fluxer.app)
 
 <p align="center">
   <picture>
@@ -31,5 +31,5 @@
 PixVerse is an open and private chat and voice place to gamers, coders and peaple that works with tech. PixVerse is based on the open-source proyect Fluxer.
 
 <p align="center">
-  <img src="./" alt="Fluxer app showcase" width="900">
+  <img src="./" alt="" width="900">
 </p>
